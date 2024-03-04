@@ -29,7 +29,7 @@ export function Home() {
                 color="white"
                 className="mb-6 font-black"
               >
-                Your story starts with us.
+                Your story starts with us  bbbbbbbbbbbbb.
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
                 Work in Progress Maybe
