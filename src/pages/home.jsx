@@ -32,7 +32,7 @@ export function Home() {
                 Your story starts with us.
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80">
-                Work in Progress
+                Work in Progress Maybe
               </Typography>
             </div>
           </div>
